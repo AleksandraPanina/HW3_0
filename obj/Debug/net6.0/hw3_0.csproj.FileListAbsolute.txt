@@ -1,0 +1,15 @@
+C:\Users\Aksenov Sergey\Desktop\HW3\hw3_0\bin\Debug\net6.0\hw3_0.exe
+C:\Users\Aksenov Sergey\Desktop\HW3\hw3_0\bin\Debug\net6.0\hw3_0.deps.json
+C:\Users\Aksenov Sergey\Desktop\HW3\hw3_0\bin\Debug\net6.0\hw3_0.runtimeconfig.json
+C:\Users\Aksenov Sergey\Desktop\HW3\hw3_0\bin\Debug\net6.0\hw3_0.dll
+C:\Users\Aksenov Sergey\Desktop\HW3\hw3_0\bin\Debug\net6.0\hw3_0.pdb
+C:\Users\Aksenov Sergey\Desktop\HW3\hw3_0\obj\Debug\net6.0\hw3_0.csproj.AssemblyReference.cache
+C:\Users\Aksenov Sergey\Desktop\HW3\hw3_0\obj\Debug\net6.0\hw3_0.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aksenov Sergey\Desktop\HW3\hw3_0\obj\Debug\net6.0\hw3_0.AssemblyInfoInputs.cache
+C:\Users\Aksenov Sergey\Desktop\HW3\hw3_0\obj\Debug\net6.0\hw3_0.AssemblyInfo.cs
+C:\Users\Aksenov Sergey\Desktop\HW3\hw3_0\obj\Debug\net6.0\hw3_0.csproj.CoreCompileInputs.cache
+C:\Users\Aksenov Sergey\Desktop\HW3\hw3_0\obj\Debug\net6.0\hw3_0.dll
+C:\Users\Aksenov Sergey\Desktop\HW3\hw3_0\obj\Debug\net6.0\refint\hw3_0.dll
+C:\Users\Aksenov Sergey\Desktop\HW3\hw3_0\obj\Debug\net6.0\hw3_0.pdb
+C:\Users\Aksenov Sergey\Desktop\HW3\hw3_0\obj\Debug\net6.0\hw3_0.genruntimeconfig.cache
+C:\Users\Aksenov Sergey\Desktop\HW3\hw3_0\obj\Debug\net6.0\ref\hw3_0.dll
